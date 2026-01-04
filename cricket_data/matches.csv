@@ -1,0 +1,151 @@
+match_id,tournament_year,date,venue,city,country,team1,team2,team1_score,team2_score,winner,margin,toss_winner,toss_decision
+WC_2015_1,2015,2015-01-01,Wankhede Stadium,Mumbai,India,England,New Zealand,370,192,New Zealand,3 wickets,England,field
+WC_2015_2,2015,2015-02-02,MCG,Melbourne,Australia,New Zealand,South Africa,300,322,New Zealand,2 wickets,South Africa,bat
+WC_2015_3,2015,2015-03-03,Wankhede Stadium,Mumbai,India,Sri Lanka,South Africa,335,315,South Africa,4 wickets,Sri Lanka,bat
+WC_2015_4,2015,2015-04-04,Lord's Cricket Ground,London,England,Afghanistan,India,204,318,Afghanistan,41 runs,India,bat
+WC_2015_5,2015,2015-05-05,SCG,Sydney,Australia,New Zealand,South Africa,298,254,New Zealand,75 runs,South Africa,field
+WC_2015_6,2015,2015-06-06,Wankhede Stadium,Mumbai,India,West Indies,Australia,236,209,Australia,5 wickets,Australia,bat
+WC_2015_7,2015,2015-07-07,Wankhede Stadium,Mumbai,India,India,Bangladesh,385,291,India,7 wickets,India,field
+WC_2015_8,2015,2015-08-08,Lord's Cricket Ground,London,England,Australia,Afghanistan,375,346,Australia,100 runs,Australia,bat
+WC_2015_9,2015,2015-09-09,Lord's Cricket Ground,London,England,Pakistan,West Indies,360,241,Pakistan,8 wickets,Pakistan,bat
+WC_2015_10,2015,2015-01-10,SCG,Sydney,Australia,Australia,India,259,292,Australia,33 runs,Australia,bat
+WC_2015_11,2015,2015-02-11,SCG,Sydney,Australia,New Zealand,England,333,287,England,46 runs,England,bat
+WC_2015_12,2015,2015-03-12,M. Chinnaswamy Stadium,Bangalore,India,South Africa,West Indies,354,247,South Africa,23 runs,South Africa,bat
+WC_2015_13,2015,2015-04-13,Eden Gardens,Kolkata,India,West Indies,England,313,242,England,4 wickets,West Indies,bat
+WC_2015_14,2015,2015-05-14,Lord's Cricket Ground,London,England,Sri Lanka,New Zealand,383,259,New Zealand,61 runs,New Zealand,field
+WC_2015_15,2015,2015-06-15,MCG,Melbourne,Australia,India,West Indies,383,214,West Indies,52 runs,West Indies,bat
+WC_2015_16,2015,2015-07-16,M. Chinnaswamy Stadium,Bangalore,India,Australia,India,336,265,India,5 wickets,India,bat
+WC_2015_17,2015,2015-08-17,M. Chinnaswamy Stadium,Bangalore,India,New Zealand,Pakistan,307,219,Pakistan,4 wickets,Pakistan,field
+WC_2015_18,2015,2015-09-18,The Oval,London,England,Sri Lanka,New Zealand,296,346,New Zealand,85 runs,New Zealand,bat
+WC_2015_19,2015,2015-01-19,SCG,Sydney,Australia,Pakistan,England,390,361,Pakistan,5 wickets,England,bat
+WC_2015_20,2015,2015-02-20,Narendra Modi Stadium,Ahmedabad,India,Sri Lanka,West Indies,221,198,West Indies,8 wickets,Sri Lanka,field
+WC_2016_1,2016,2015-03-21,M. Chinnaswamy Stadium,Bangalore,India,Pakistan,England,292,379,England,65 runs,Pakistan,bat
+WC_2016_2,2016,2015-04-22,Narendra Modi Stadium,Ahmedabad,India,Australia,Sri Lanka,385,190,Sri Lanka,5 wickets,Australia,field
+WC_2016_3,2016,2015-05-23,Eden Gardens,Kolkata,India,Australia,New Zealand,368,348,Australia,19 runs,New Zealand,bat
+WC_2016_4,2016,2015-06-24,MCG,Melbourne,Australia,Afghanistan,South Africa,272,356,South Africa,13 runs,South Africa,field
+WC_2016_5,2016,2015-07-25,Wankhede Stadium,Mumbai,India,England,New Zealand,337,269,England,4 wickets,New Zealand,bat
+WC_2016_6,2016,2015-08-26,MCG,Melbourne,Australia,New Zealand,West Indies,284,356,West Indies,14 runs,New Zealand,field
+WC_2016_7,2016,2015-09-27,MCG,Melbourne,Australia,Sri Lanka,Bangladesh,381,280,Bangladesh,8 wickets,Sri Lanka,field
+WC_2016_8,2016,2015-01-28,Lord's Cricket Ground,London,England,England,Australia,316,251,England,77 runs,Australia,field
+WC_2016_9,2016,2015-02-01,The Oval,London,England,England,West Indies,268,206,England,4 wickets,West Indies,field
+WC_2016_10,2016,2015-03-02,Lord's Cricket Ground,London,England,West Indies,New Zealand,233,237,New Zealand,59 runs,West Indies,bat
+WC_2016_11,2016,2015-04-03,SCG,Sydney,Australia,Bangladesh,Afghanistan,381,359,Afghanistan,20 runs,Afghanistan,bat
+WC_2016_12,2016,2015-05-04,Eden Gardens,Kolkata,India,South Africa,Bangladesh,347,360,Bangladesh,9 wickets,South Africa,field
+WC_2016_13,2016,2015-06-05,The Oval,London,England,New Zealand,Pakistan,274,267,New Zealand,84 runs,Pakistan,field
+WC_2016_14,2016,2015-07-06,MCG,Melbourne,Australia,South Africa,West Indies,300,210,West Indies,92 runs,South Africa,bat
+WC_2016_15,2016,2015-08-07,Lord's Cricket Ground,London,England,New Zealand,West Indies,390,365,New Zealand,9 wickets,West Indies,field
+WC_2016_16,2016,2015-09-08,Narendra Modi Stadium,Ahmedabad,India,Pakistan,Sri Lanka,240,233,Sri Lanka,1 wickets,Pakistan,field
+WC_2016_17,2016,2015-01-09,Eden Gardens,Kolkata,India,Afghanistan,Australia,212,259,Australia,1 wickets,Australia,field
+WC_2016_18,2016,2015-02-10,Lord's Cricket Ground,London,England,Bangladesh,Australia,336,353,Australia,23 runs,Australia,field
+WC_2016_19,2016,2015-03-11,SCG,Sydney,Australia,India,New Zealand,342,331,India,4 wickets,New Zealand,bat
+WC_2016_20,2016,2015-04-12,Narendra Modi Stadium,Ahmedabad,India,Bangladesh,New Zealand,212,380,Bangladesh,8 wickets,Bangladesh,field
+WC_2017_1,2017,2015-05-13,Wankhede Stadium,Mumbai,India,Australia,Afghanistan,299,189,Australia,64 runs,Australia,field
+WC_2017_2,2017,2015-06-14,Narendra Modi Stadium,Ahmedabad,India,Sri Lanka,India,205,269,India,75 runs,Sri Lanka,field
+WC_2017_3,2017,2015-07-15,Eden Gardens,Kolkata,India,Bangladesh,Sri Lanka,337,315,Bangladesh,59 runs,Bangladesh,field
+WC_2017_4,2017,2015-08-16,SCG,Sydney,Australia,Bangladesh,Sri Lanka,390,308,Bangladesh,100 runs,Bangladesh,field
+WC_2017_5,2017,2015-09-17,Eden Gardens,Kolkata,India,West Indies,New Zealand,304,219,West Indies,4 runs,West Indies,bat
+WC_2017_6,2017,2015-01-18,Lord's Cricket Ground,London,England,Sri Lanka,West Indies,229,347,Sri Lanka,55 runs,West Indies,bat
+WC_2017_7,2017,2015-02-19,M. Chinnaswamy Stadium,Bangalore,India,Sri Lanka,Pakistan,261,293,Pakistan,4 wickets,Sri Lanka,bat
+WC_2017_8,2017,2015-03-20,The Oval,London,England,Sri Lanka,India,309,301,Sri Lanka,8 wickets,Sri Lanka,field
+WC_2017_9,2017,2015-04-21,SCG,Sydney,Australia,Australia,Afghanistan,360,331,Australia,9 wickets,Australia,bat
+WC_2017_10,2017,2015-05-22,Wankhede Stadium,Mumbai,India,Bangladesh,Australia,286,182,Australia,8 wickets,Australia,bat
+WC_2017_11,2017,2015-06-23,Wankhede Stadium,Mumbai,India,Afghanistan,India,342,231,India,7 wickets,India,field
+WC_2017_12,2017,2015-07-24,Eden Gardens,Kolkata,India,Australia,New Zealand,203,242,Australia,2 wickets,New Zealand,bat
+WC_2017_13,2017,2015-08-25,Narendra Modi Stadium,Ahmedabad,India,India,Australia,250,205,Australia,1 wickets,Australia,field
+WC_2017_14,2017,2015-09-26,Eden Gardens,Kolkata,India,Sri Lanka,West Indies,207,367,West Indies,6 wickets,West Indies,bat
+WC_2017_15,2017,2015-01-27,The Oval,London,England,South Africa,Australia,258,363,Australia,5 wickets,South Africa,field
+WC_2017_16,2017,2015-02-28,Narendra Modi Stadium,Ahmedabad,India,South Africa,West Indies,252,198,West Indies,9 wickets,South Africa,field
+WC_2017_17,2017,2015-03-01,Wankhede Stadium,Mumbai,India,Bangladesh,India,286,281,India,6 wickets,Bangladesh,bat
+WC_2017_18,2017,2015-04-02,MCG,Melbourne,Australia,India,Afghanistan,352,205,India,2 wickets,India,field
+WC_2017_19,2017,2015-05-03,The Oval,London,England,New Zealand,Afghanistan,357,250,New Zealand,8 wickets,Afghanistan,field
+WC_2017_20,2017,2015-06-04,Wankhede Stadium,Mumbai,India,England,Pakistan,364,181,England,9 wickets,Pakistan,bat
+WC_2018_1,2018,2015-07-05,SCG,Sydney,Australia,Bangladesh,Afghanistan,384,188,Afghanistan,5 wickets,Afghanistan,bat
+WC_2018_2,2018,2015-08-06,Narendra Modi Stadium,Ahmedabad,India,Sri Lanka,Pakistan,388,223,Sri Lanka,9 wickets,Pakistan,field
+WC_2018_3,2018,2015-09-07,SCG,Sydney,Australia,England,Bangladesh,247,287,England,39 runs,England,field
+WC_2018_4,2018,2015-01-08,Lord's Cricket Ground,London,England,Sri Lanka,India,376,347,India,4 wickets,Sri Lanka,bat
+WC_2018_5,2018,2015-02-09,The Oval,London,England,Afghanistan,Bangladesh,273,359,Bangladesh,6 runs,Afghanistan,bat
+WC_2018_6,2018,2015-03-10,M. Chinnaswamy Stadium,Bangalore,India,Pakistan,England,267,363,England,2 wickets,England,bat
+WC_2018_7,2018,2015-04-11,The Oval,London,England,India,Afghanistan,259,326,Afghanistan,7 wickets,India,field
+WC_2018_8,2018,2015-05-12,The Oval,London,England,Bangladesh,Afghanistan,350,309,Bangladesh,55 runs,Bangladesh,field
+WC_2018_9,2018,2015-06-13,MCG,Melbourne,Australia,New Zealand,West Indies,238,289,West Indies,82 runs,New Zealand,field
+WC_2018_10,2018,2015-07-14,MCG,Melbourne,Australia,New Zealand,Australia,208,330,New Zealand,53 runs,Australia,bat
+WC_2018_11,2018,2015-08-15,The Oval,London,England,Afghanistan,Sri Lanka,384,187,Sri Lanka,24 runs,Sri Lanka,field
+WC_2018_12,2018,2015-09-16,Wankhede Stadium,Mumbai,India,New Zealand,England,233,184,England,51 runs,New Zealand,bat
+WC_2018_13,2018,2015-01-17,The Oval,London,England,Pakistan,Bangladesh,221,258,Pakistan,13 runs,Bangladesh,field
+WC_2018_14,2018,2015-02-18,The Oval,London,England,South Africa,Pakistan,248,371,Pakistan,1 wickets,South Africa,bat
+WC_2018_15,2018,2015-03-19,M. Chinnaswamy Stadium,Bangalore,India,Pakistan,Afghanistan,349,372,Pakistan,70 runs,Pakistan,field
+WC_2018_16,2018,2015-04-20,Narendra Modi Stadium,Ahmedabad,India,West Indies,Bangladesh,283,330,Bangladesh,69 runs,Bangladesh,bat
+WC_2018_17,2018,2015-05-21,SCG,Sydney,Australia,New Zealand,Afghanistan,288,302,New Zealand,8 wickets,New Zealand,bat
+WC_2018_18,2018,2015-06-22,Narendra Modi Stadium,Ahmedabad,India,South Africa,India,320,306,India,1 runs,South Africa,field
+WC_2018_19,2018,2015-07-23,SCG,Sydney,Australia,Afghanistan,West Indies,260,216,Afghanistan,49 runs,Afghanistan,bat
+WC_2018_20,2018,2015-08-24,Eden Gardens,Kolkata,India,Australia,West Indies,210,233,Australia,33 runs,West Indies,bat
+WC_2019_1,2019,2015-09-25,Wankhede Stadium,Mumbai,India,South Africa,India,350,374,South Africa,5 wickets,India,field
+WC_2019_2,2019,2015-01-26,MCG,Melbourne,Australia,India,Sri Lanka,352,181,Sri Lanka,8 wickets,India,bat
+WC_2019_3,2019,2015-02-27,SCG,Sydney,Australia,South Africa,Sri Lanka,269,365,Sri Lanka,55 runs,Sri Lanka,field
+WC_2019_4,2019,2015-03-28,The Oval,London,England,West Indies,Bangladesh,216,291,Bangladesh,5 wickets,Bangladesh,field
+WC_2019_5,2019,2015-04-01,The Oval,London,England,New Zealand,Sri Lanka,210,314,New Zealand,7 wickets,Sri Lanka,field
+WC_2019_6,2019,2015-05-02,Narendra Modi Stadium,Ahmedabad,India,Bangladesh,England,279,306,Bangladesh,57 runs,England,field
+WC_2019_7,2019,2015-06-03,The Oval,London,England,Sri Lanka,Afghanistan,364,201,Sri Lanka,5 wickets,Afghanistan,field
+WC_2019_8,2019,2015-07-04,Eden Gardens,Kolkata,India,England,South Africa,213,274,England,29 runs,England,field
+WC_2019_9,2019,2015-08-05,Wankhede Stadium,Mumbai,India,New Zealand,Pakistan,322,334,New Zealand,8 wickets,Pakistan,bat
+WC_2019_10,2019,2015-09-06,MCG,Melbourne,Australia,New Zealand,Bangladesh,314,344,Bangladesh,85 runs,New Zealand,bat
+WC_2019_11,2019,2015-01-07,Eden Gardens,Kolkata,India,South Africa,Pakistan,348,322,Pakistan,98 runs,South Africa,bat
+WC_2019_12,2019,2015-02-08,M. Chinnaswamy Stadium,Bangalore,India,Afghanistan,South Africa,294,250,Afghanistan,1 wickets,Afghanistan,field
+WC_2019_13,2019,2015-03-09,MCG,Melbourne,Australia,New Zealand,West Indies,348,192,New Zealand,91 runs,New Zealand,field
+WC_2019_14,2019,2015-04-10,Narendra Modi Stadium,Ahmedabad,India,West Indies,Bangladesh,252,283,Bangladesh,6 runs,Bangladesh,bat
+WC_2019_15,2019,2015-05-11,Eden Gardens,Kolkata,India,England,Australia,388,274,England,35 runs,England,field
+WC_2019_16,2019,2015-06-12,Wankhede Stadium,Mumbai,India,Bangladesh,Afghanistan,398,364,Afghanistan,68 runs,Bangladesh,field
+WC_2019_17,2019,2015-07-13,Lord's Cricket Ground,London,England,Afghanistan,India,212,219,India,93 runs,India,field
+WC_2019_18,2019,2015-08-14,MCG,Melbourne,Australia,New Zealand,India,397,223,New Zealand,81 runs,India,field
+WC_2019_19,2019,2015-09-15,MCG,Melbourne,Australia,New Zealand,India,201,309,New Zealand,7 runs,India,bat
+WC_2019_20,2019,2015-01-16,The Oval,London,England,Sri Lanka,Australia,247,263,Australia,37 runs,Australia,bat
+WC_2020_1,2020,2015-02-17,Eden Gardens,Kolkata,India,Bangladesh,Afghanistan,236,328,Bangladesh,73 runs,Bangladesh,field
+WC_2020_2,2020,2015-03-18,M. Chinnaswamy Stadium,Bangalore,India,Sri Lanka,South Africa,357,206,Sri Lanka,50 runs,Sri Lanka,bat
+WC_2020_3,2020,2015-04-19,M. Chinnaswamy Stadium,Bangalore,India,England,West Indies,300,364,West Indies,57 runs,West Indies,bat
+WC_2020_4,2020,2015-05-20,M. Chinnaswamy Stadium,Bangalore,India,India,New Zealand,264,258,New Zealand,50 runs,New Zealand,field
+WC_2020_5,2020,2015-06-21,MCG,Melbourne,Australia,England,Sri Lanka,325,293,England,86 runs,Sri Lanka,field
+WC_2020_6,2020,2015-07-22,MCG,Melbourne,Australia,Australia,England,273,344,England,3 wickets,England,bat
+WC_2020_7,2020,2015-08-23,Narendra Modi Stadium,Ahmedabad,India,Afghanistan,South Africa,337,257,South Africa,20 runs,South Africa,bat
+WC_2020_8,2020,2015-09-24,Eden Gardens,Kolkata,India,New Zealand,Pakistan,240,192,New Zealand,10 runs,New Zealand,field
+WC_2020_9,2020,2015-01-25,Eden Gardens,Kolkata,India,England,Pakistan,334,351,England,6 wickets,England,field
+WC_2020_10,2020,2015-02-26,Wankhede Stadium,Mumbai,India,Sri Lanka,England,274,287,England,3 wickets,England,bat
+WC_2020_11,2020,2015-03-27,Eden Gardens,Kolkata,India,Sri Lanka,England,227,188,Sri Lanka,68 runs,Sri Lanka,field
+WC_2020_12,2020,2015-04-28,SCG,Sydney,Australia,Bangladesh,Australia,391,259,Australia,77 runs,Bangladesh,field
+WC_2020_13,2020,2015-05-01,M. Chinnaswamy Stadium,Bangalore,India,West Indies,Pakistan,246,291,West Indies,4 wickets,West Indies,field
+WC_2020_14,2020,2015-06-02,MCG,Melbourne,Australia,West Indies,Bangladesh,205,350,West Indies,3 wickets,Bangladesh,field
+WC_2020_15,2020,2015-07-03,M. Chinnaswamy Stadium,Bangalore,India,New Zealand,India,354,304,India,4 wickets,India,bat
+WC_2020_16,2020,2015-08-04,M. Chinnaswamy Stadium,Bangalore,India,Pakistan,South Africa,361,342,South Africa,28 runs,Pakistan,field
+WC_2020_17,2020,2015-09-05,Narendra Modi Stadium,Ahmedabad,India,Afghanistan,New Zealand,352,195,Afghanistan,24 runs,New Zealand,field
+WC_2020_18,2020,2015-01-06,Eden Gardens,Kolkata,India,Bangladesh,South Africa,200,260,South Africa,9 wickets,Bangladesh,field
+WC_2020_19,2020,2015-02-07,Lord's Cricket Ground,London,England,Afghanistan,Bangladesh,378,366,Afghanistan,68 runs,Afghanistan,field
+WC_2020_20,2020,2015-03-08,Wankhede Stadium,Mumbai,India,New Zealand,England,217,277,New Zealand,4 wickets,New Zealand,bat
+WC_2021_1,2021,2015-04-09,Lord's Cricket Ground,London,England,England,India,278,340,India,8 wickets,England,bat
+WC_2021_2,2021,2015-05-10,M. Chinnaswamy Stadium,Bangalore,India,Bangladesh,Sri Lanka,238,188,Sri Lanka,93 runs,Bangladesh,field
+WC_2021_3,2021,2015-06-11,MCG,Melbourne,Australia,South Africa,Australia,353,316,South Africa,3 runs,South Africa,bat
+WC_2021_4,2021,2015-07-12,Wankhede Stadium,Mumbai,India,Sri Lanka,Afghanistan,309,316,Afghanistan,2 wickets,Sri Lanka,field
+WC_2021_5,2021,2015-08-13,Wankhede Stadium,Mumbai,India,West Indies,Bangladesh,259,250,West Indies,9 wickets,West Indies,field
+WC_2021_6,2021,2015-09-14,MCG,Melbourne,Australia,Sri Lanka,England,327,359,England,75 runs,England,bat
+WC_2021_7,2021,2015-01-15,M. Chinnaswamy Stadium,Bangalore,India,Pakistan,Afghanistan,299,353,Afghanistan,4 wickets,Pakistan,bat
+WC_2021_8,2021,2015-02-16,MCG,Melbourne,Australia,India,Bangladesh,321,184,India,43 runs,Bangladesh,field
+WC_2021_9,2021,2015-03-17,Lord's Cricket Ground,London,England,West Indies,Australia,266,232,Australia,82 runs,West Indies,field
+WC_2021_10,2021,2015-04-18,The Oval,London,England,India,West Indies,244,377,West Indies,4 wickets,West Indies,field
+WC_2021_11,2021,2015-05-19,SCG,Sydney,Australia,England,South Africa,397,327,England,53 runs,South Africa,bat
+WC_2021_12,2021,2015-06-20,Eden Gardens,Kolkata,India,England,Australia,241,227,Australia,93 runs,Australia,field
+WC_2021_13,2021,2015-07-21,SCG,Sydney,Australia,Bangladesh,Australia,260,180,Bangladesh,5 wickets,Bangladesh,field
+WC_2021_14,2021,2015-08-22,MCG,Melbourne,Australia,Bangladesh,Pakistan,376,214,Pakistan,33 runs,Bangladesh,field
+WC_2021_15,2021,2015-09-23,Narendra Modi Stadium,Ahmedabad,India,West Indies,Afghanistan,275,277,West Indies,32 runs,West Indies,bat
+WC_2021_16,2021,2015-01-24,The Oval,London,England,Bangladesh,South Africa,233,243,South Africa,6 wickets,South Africa,field
+WC_2021_17,2021,2015-02-25,MCG,Melbourne,Australia,Afghanistan,Pakistan,398,370,Afghanistan,2 runs,Pakistan,field
+WC_2021_18,2021,2015-03-26,Narendra Modi Stadium,Ahmedabad,India,England,West Indies,399,272,West Indies,24 runs,West Indies,bat
+WC_2021_19,2021,2015-04-27,MCG,Melbourne,Australia,India,South Africa,288,210,South Africa,9 wickets,India,field
+WC_2021_20,2021,2015-05-28,MCG,Melbourne,Australia,England,Afghanistan,358,269,Afghanistan,75 runs,Afghanistan,bat
+WC_2022_1,2022,2015-06-01,SCG,Sydney,Australia,South Africa,Pakistan,320,360,South Africa,9 wickets,South Africa,bat
+WC_2022_2,2022,2015-07-02,Wankhede Stadium,Mumbai,India,New Zealand,South Africa,355,332,South Africa,76 runs,New Zealand,field
+WC_2022_3,2022,2015-08-03,Narendra Modi Stadium,Ahmedabad,India,New Zealand,Afghanistan,358,220,New Zealand,8 wickets,Afghanistan,bat
+WC_2022_4,2022,2015-09-04,Narendra Modi Stadium,Ahmedabad,India,Afghanistan,New Zealand,267,309,New Zealand,99 runs,Afghanistan,field
+WC_2022_5,2022,2015-01-05,Lord's Cricket Ground,London,England,India,Pakistan,387,358,India,9 wickets,Pakistan,field
+WC_2022_6,2022,2015-02-06,MCG,Melbourne,Australia,India,New Zealand,340,223,India,5 wickets,India,field
+WC_2022_7,2022,2015-03-07,M. Chinnaswamy Stadium,Bangalore,India,South Africa,Australia,276,208,Australia,6 wickets,Australia,field
+WC_2022_8,2022,2015-04-08,Narendra Modi Stadium,Ahmedabad,India,Australia,England,256,333,England,65 runs,Australia,bat
+WC_2022_9,2022,2015-05-09,SCG,Sydney,Australia,South Africa,Australia,376,231,South Africa,7 wickets,South Africa,bat
+WC_2022_10,2022,2015-06-10,SCG,Sydney,Australia,Pakistan,South Africa,370,225,South Africa,28 runs,South Africa,field

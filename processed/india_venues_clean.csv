@@ -1,0 +1,9 @@
+team,venue,city,country,latitude,longitude,matches_played,matches_won,win_percentage,avg_runs_scored
+India,Wankhede Stadium,Mumbai,India,18.9388,72.8258,16,9,79.51,291
+India,Eden Gardens,Kolkata,India,22.5645,88.3433,12,8,77.97,268
+India,M. Chinnaswamy Stadium,Bangalore,India,12.9791,77.5998,6,10,78.86,290
+India,Narendra Modi Stadium,Ahmedabad,India,23.0938,72.595,20,8,64.54,300
+India,Lord's Cricket Ground,London,England,51.5294,-0.1728,15,8,52.45,298
+India,The Oval,London,England,51.4839,-0.1146,20,6,78.97,309
+India,MCG,Melbourne,Australia,-37.82,144.9834,13,9,73.57,277
+India,SCG,Sydney,Australia,-33.8915,151.2246,7,8,62.59,251
